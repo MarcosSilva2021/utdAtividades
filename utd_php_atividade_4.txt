@@ -1,0 +1,88 @@
+Atividade 4
+
+Cite definições de cada item, conforme pesquisa em livros internet ...
+
+Classe
+
+uma classe é uma descrição que abstrai um conjunto de objetos com 
+características similares. Mais formalmente, é um conceito que encapsula 
+abstrações de dados e procedimentos que descrevem o conteúdo e o 
+comportamento de entidades do mundo real, representadas por objetos.
+
+Características das classes
+
+    - Toda classe possui um nome;
+    - Possuem visibilidade, exemplo: public, private, protected;
+    - Possuem membros como: Características e Ações;
+    - Para criar uma classe basta declarar 
+      a visibilidade + digitar a palavra reservada class + NomeDaClasse + abrir e fechar chaves { }.
+
+
+Metodo
+
+Os métodos são ações ou procedimentos, onde podem interagir e se comunicarem 
+com outros objetos. A execução dessas ações se dá através de mensagens, tendo 
+como função o envio de uma solicitação ao objeto para que seja efetuada a rotina desejada.
+ 
+Os métodos determinam o comportamento dos objetos de uma classe e são equivalentes 
+a funções da programação estruturada.
+
+Objeto 
+
+Os objetos são características definidas pelas classes. Neles é permitido 
+instanciar objetos da classe para inicializar os atributos e invocar os métodos.
+
+Todo objeto é algo que existe, uma coisa concreta, já a classe é considerada como um modelo 
+ou projeto de um objeto, sendo algo que não consegue tocar.
+
+
+Defina API
+
+API em inglês é interface de programação de aplicações.
+É um conjunto de definições e protocolos usado no desenvolvimento 
+e na integração de software de aplicações. 
+
+Uma API permite que sua solução ou serviço se comunique com outros produtos e serviços sem precisar 
+saber como eles foram implementados. Isso simplifica o desenvolvimento de aplicações, gerando economia 
+de tempo e dinheiro. Ao desenvolver novas ferramentas e soluções (ou ao gerenciar aquelas já existentes), 
+as APIs oferecem a flexibilidade necessária para simplificar o design, a administração e o uso, além de 
+fornecer oportunidades de inovação.
+
+As APIs simplificam a forma como os desenvolvedores integram novos componentes de aplicações a uma arquitetura 
+preexistente. Por isso, elas ajudam na colaboração entre as empresas e as equipes de TI.
+
+
+Cite 2 APIS abertas, podendo ser encontradas na internet 
+
+API google maps - oferece ao site a localização de um lugar especifico.
+
+Fun Translations API - Traduz texto para outra linguagem.
+
+
+Disserte sobre lib cURL e SOAP
+
+cURL
+
+É uma biblioteca que permite fazer solicitações HTTP em PHP a um servidor
+Curl é uma biblioteca usada para fazer solicitações ou transferir dados de/para um servidor, usando geralmente o HTTP.
+
+Ele é uma ferramenta de linha de comando que funciona como interface para a biblioteca que faz o serviço pesado, o libcurl.
+
+De forma geral, seu navegador realiza requisições web, recebe respostas, lê/escreve cookies e renderiza sua página. 
+O curl pode fazer tudo isso, exceto a renderização, que cabe ao seu navegador.
+
+Ele oferece uma infinidade de funções úteis como realização de autenticação, interação com API's, preencher formulários HTML, 
+download de arquivos e paginas HTML etc.
+
+SOAP
+
+SOAP (Simple Object Access Protocol) é uma especificação de protocolo que ajudar a padronizar a troca de informações.
+As APIs projetadas com SOAP usam o XML como formato de mensagem e recebem solicitações por HTTP ou SMTP. 
+O SOAP facilita o compartilhamento de informações por aplicações executadas em ambientes diferentes 
+ou escritos em linguagens diferentes.
+
+
+Cite com suas palavras o que é uma API REST.
+
+REST significa Representational State Transfer. Em português, Transferência de Estado Representacional. 
+Trata-se de uma abstração da arquitetura da Web. Ou seja, o REST consiste em princípios/regras/constraints que, quando seguidas, permitem a criação de um projeto com interfaces bem definidas. Desta forma, permitindo, por exemplo, que aplicações se comuniquem.
